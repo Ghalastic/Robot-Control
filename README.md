@@ -1,5 +1,5 @@
-# Task 1 - Robot Direction Control 
-Task Description: build a web page to control the direction of the robot's movement and link it to a database.
+# Task 1 - Robot Direction Control Web Page
+Task Description: build a web page to control the direction of the robot's movements and link it to a database.
 ## Steps:-
 ### 1- Choose a Server-Side Language: 
 For example, PHP.
@@ -17,7 +17,7 @@ Create a PHP file to handle AJAX requests and insert commands into the database.
 2- Move the html and the php files just created to the htdocs directory of the XAMPP installation on file explorer.   
 3- Open a browser and type "http://localhost/htmlfilename.html", with "htmlfilename" being the name of the html file just created.     
 4- Click the buttons to send commands.      
-5- Open phpMyAdmin, select the database, and browse the commands table to see the inserted commands.
+5- Open phpMyAdmin, select the database, and browse the table to see the inserted commands.
 
 
 ## Screenshots
