@@ -1,5 +1,5 @@
 # Task 1 - Robot Direction Control 
-Task Description: build a web page to control the direction of the robot's movement and link it to a database on phpmyadmin.
+Task Description: build a web page to control the direction of the robot's movement and link it to a database.
 ## Steps:-
 ### 1- Choose a Server-Side Language: 
 For example, PHP.
